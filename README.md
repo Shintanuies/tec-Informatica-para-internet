@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=77080E&text=ようこそ&fontSize=18&fontAlign=83&fontColor=E1FDFE&animation=scaleIn"/>
 <div style="border: 1px solid white; padding: 30px 10px">
 <div  align="center" style="background-color: white; padding: 30px 0px">
-    <img  src="linguagem_de_programacaoo_web/assets/logo_pa.jpeg" alt="Outra imagem" height="150" width="150" align-itens="center">
+    <img  src="assets/logo_pa.jpeg" alt="Outra imagem" height="150" width="150" align-itens="center">
 </div>
 
 <div  align="center" style="margin: 50px 0px; background-color: rgba(255, 0, 0, 0.5); padding: 4px 10px; text-align: center">
@@ -29,7 +29,7 @@
 <hr>
 
 <div align="center">
-    <img width="200" src="linguagem_de_programacaoo_web/assets/a-logo-design-in-an-oriental.png"/>
+    <img width="200" src="assets/a-logo-design-in-an-oriental.png"/>
 </div>
 </div>
 
